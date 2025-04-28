@@ -114,7 +114,7 @@ $ kill processPID
 
 If the process is not finished, use kill -9:
 
-kill  -9 processPID
+$ kill  -9 processPID
 
 Output of text or variables (echo — command).
 
